@@ -1,9 +1,9 @@
 #ignore file list
 
 #Eclipse project config file
-.classpath
-.project
-.settings/*
+#.classpath
+#.project
+#.settings/*
 
 
 # Compiled class file
